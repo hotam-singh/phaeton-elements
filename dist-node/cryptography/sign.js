@@ -11,7 +11,7 @@ var _tweetnacl2 = _interopRequireDefault(_tweetnacl);
 
 var _varuintBitcoin = require('varuint-bitcoin');
 
-var _phaetonConstants = require('../phaeton-constants');
+var _phaetonConstants = require('phaeton-constants');
 
 var _hash = require('./hash');
 

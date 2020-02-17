@@ -28,7 +28,7 @@ var _os = require('os');
 
 var _os2 = _interopRequireDefault(_os);
 
-var _phaetonConstants = require('../phaeton-constants');
+var _phaetonConstants = require('phaeton-constants');
 
 var _constants = require('./constants');
 
