@@ -3726,7 +3726,7 @@ var _api_client = require('./api_client');
 
 var _api_client2 = _interopRequireDefault(_api_client);
 
-var _phaetonConstants = require('./phaeton-constants');
+var _phaetonConstants = require('phaeton-constants');
 
 var constantsModule = _interopRequireWildcard(_phaetonConstants);
 
@@ -5428,7 +5428,7 @@ var _browserifyBignum = require('browserify-bignum');
 
 var _browserifyBignum2 = _interopRequireDefault(_browserifyBignum);
 
-var _phaetonConstants = require('../../phaeton-constants');
+var _phaetonConstants = require('phaeton-constants');
 
 var _constants = require('../constants');
 
@@ -5705,7 +5705,7 @@ var _browserifyBignum = require('browserify-bignum');
 
 var _browserifyBignum2 = _interopRequireDefault(_browserifyBignum);
 
-var _phaetonConstants = require('../../phaeton-constants');
+var _phaetonConstants = require('phaeton-constants');
 
 var _cryptography = require('../../cryptography');
 
@@ -6863,7 +6863,7 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.getTimeWithOffset = exports.getTimeFromBlockchainEpoch = undefined;
 
-var _phaetonConstants = require('../../phaeton-constants');
+var _phaetonConstants = require('phaeton-constants');
 
 var getTimeFromBlockchainEpoch = exports.getTimeFromBlockchainEpoch = function getTimeFromBlockchainEpoch(givenTimestamp) {
   var startingPoint = givenTimestamp || new Date().getTime();
@@ -6974,7 +6974,7 @@ var _browserifyBignum = require('browserify-bignum');
 
 var _browserifyBignum2 = _interopRequireDefault(_browserifyBignum);
 
-var _phaetonConstants = require('../../phaeton-constants');
+var _phaetonConstants = require('phaeton-constants');
 
 var _convert = require('../../cryptography/convert');
 

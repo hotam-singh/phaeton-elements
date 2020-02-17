@@ -9,7 +9,7 @@ var _browserifyBignum = require('browserify-bignum');
 
 var _browserifyBignum2 = _interopRequireDefault(_browserifyBignum);
 
-var _phaetonConstants = require('../../phaeton-constants');
+var _phaetonConstants = require('phaeton-constants');
 
 var _convert = require('../../cryptography/convert');
 

@@ -9,7 +9,7 @@ var _api_client = require('./api_client');
 
 var _api_client2 = _interopRequireDefault(_api_client);
 
-var _phaetonConstants = require('./phaeton-constants');
+var _phaetonConstants = require('phaeton-constants');
 
 var constantsModule = _interopRequireWildcard(_phaetonConstants);
 

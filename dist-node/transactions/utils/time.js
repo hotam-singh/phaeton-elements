@@ -5,7 +5,7 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.getTimeWithOffset = exports.getTimeFromBlockchainEpoch = undefined;
 
-var _phaetonConstants = require('../../phaeton-constants');
+var _phaetonConstants = require('phaeton-constants');
 
 var getTimeFromBlockchainEpoch = exports.getTimeFromBlockchainEpoch = function getTimeFromBlockchainEpoch(givenTimestamp) {
   var startingPoint = givenTimestamp || new Date().getTime();
