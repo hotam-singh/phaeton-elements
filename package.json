@@ -57,7 +57,7 @@
     "chai-as-promised": "=7.1.1",
     "coveralls": "=3.0.0",
     "cypress": "=2.0.2",
-    "eslint": "=4.16.0",
+    "eslint": "=6.5.1",
     "eslint-config-airbnb-base": "=12.1.0",
     "eslint-config-phaeton-base": "=1.0.0",
     "eslint-plugin-import": "=2.8.0",
